@@ -1,0 +1,40 @@
+
+article{
+    block-size: 1px;
+    height: 2%;
+    width: 30vw;
+    line-height: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+main {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.bloco {
+    color: white;
+    display: block;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#bloco-1{
+    background-color: darkorange;
+    border: 10px rgb(248, 170, 75) solid;
+}
+
+#bloco-2{
+    background-color: rgb(42, 119, 42);
+    border: 10px rgb(81, 158, 81) solid;
+}
+
+#bloco-3{
+    background-color: rgb(1, 59, 1);
+    border: 10px dashed lightgreen;
+}
+
+#bloco-4{
+    background-color: darkred;
+    border: 10px dashed lightcoral;
+}
